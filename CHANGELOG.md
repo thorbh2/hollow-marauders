@@ -2,3 +2,4 @@
 
 - 2025-06-23: update README with setup instructions
 - 2025-06-23: add security notes
+- 2025-06-25: add tests for the allowlist
