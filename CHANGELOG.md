@@ -5,3 +5,4 @@
 - 2025-06-25: add tests for the allowlist
 - 2025-06-27: fix nonce handling in mint
 - 2025-06-28: configure hardhat network
+- 2025-06-28: add CI workflow
