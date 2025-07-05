@@ -8,3 +8,4 @@
 - 2025-06-28: add CI workflow
 - 2025-07-01: update contract compiler
 - 2025-07-01: wire up wallet connect
+- 2025-07-05: add .env.example
