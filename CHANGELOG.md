@@ -11,3 +11,4 @@
 - 2025-07-05: add .env.example
 - 2025-07-05: fix nonce handling in mint
 - 2025-07-05: add collection config
+- 2025-07-09: add CI workflow
